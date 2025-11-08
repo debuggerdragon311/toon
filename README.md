@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="benches/logo-tp.png" alt="TOON Logo" width="320"/>
+</p>
+
 # TOON - A Compact, Lossless JSON Encoding Format
 
 TOON is a space-efficient, token-efficient alternative to JSON that maintains perfect round-trip compatibility. It offers both human-readable text mode and binary compact mode, with special optimizations for tabular data.
