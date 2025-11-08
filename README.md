@@ -215,10 +215,5 @@ Contributions welcome! Please ensure:
 
 ## License
 
-MIT OR Apache-2.0
+MIT
 
-## Links
-
-- Repository: https://github.com/toon-format/toon
-- Issues: https://github.com/toon-format/toon/issues
-- Documentation: https://docs.rs/toon
